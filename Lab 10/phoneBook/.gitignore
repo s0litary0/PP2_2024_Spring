@@ -1,2 +1,2 @@
 database.ini
-_pycache_/*
+__pycache__/*
